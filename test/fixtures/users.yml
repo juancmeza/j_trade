@@ -2,10 +2,12 @@
 
 one:
   name: MyString
-  portfolio: 9.99
-  start: 2021-10-21 23:55:49
+  password_digest: MyString
+  balance: 9.99
+  opendate: 2021-10-22 00:42:22
 
 two:
   name: MyString
-  portfolio: 9.99
-  start: 2021-10-21 23:55:49
+  password_digest: MyString
+  balance: 9.99
+  opendate: 2021-10-22 00:42:22

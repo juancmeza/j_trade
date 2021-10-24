@@ -22,6 +22,9 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 gem 'bcrypt', '~> 3.1.7'
 
+#Allow Cross-origin AJAX
+gem 'rack-cors'
+
 # Use Jason Web Tokens
 gem 'jwt', '~> 1.5', '>= 1.5.4'
 

@@ -1,6 +1,6 @@
 require "test_helper"
 
-class CoinsnameTest < ActiveSupport::TestCase
+class CoinsControllerTest < ActionDispatch::IntegrationTest
   # test "the truth" do
   #   assert true
   # end

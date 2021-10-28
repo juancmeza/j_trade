@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  amount: 9.99
+  date: 2021-10-27 13:33:11
+  buy: false
+  user: one
+  coin: one
+
+two:
+  amount: 9.99
+  date: 2021-10-27 13:33:11
+  buy: false
+  user: two
+  coin: two

@@ -1,2 +1,0 @@
-class CoinsnamesController < ApplicationController
-end
